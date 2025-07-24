@@ -14,22 +14,22 @@
       "artifacts": [
         {
           "location": {
-            
+            "uri": "file:///eslint.config.js"
           }
         },
         {
           "location": {
-            
+            "uri": "file:///src/server.js"
           }
         },
         {
           "location": {
-            
+            "uri": "file:///tests/SeleniumTest.mjs"
           }
         },
         {
           "location": {
-            
+            "uri": "file:///tests/test.js"
           }
         }
       ],
